@@ -11,6 +11,6 @@ sim.py，simConst.py：仿真端接口代码
 
 remoteApi.dll：远程调用接口
 
-* .ttt：路径图
+.ttt：路径图
 
 视频.zip：运行过程录制的视频
