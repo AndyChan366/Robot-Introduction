@@ -3,11 +3,9 @@ This is the homework of robot introduction in SYSU
 
 Teacher: **Hui Cheng**
 
-Robot_Control.py:利用opencv巡线代码
+Robot_Control.py：利用opencv巡线代码
 
-sim.py:
-
-simConst.py:
+sim.py，simConst.py：仿真端接口代码
 
 视觉小车巡线比赛.pptx：项目要求
 
