@@ -1,5 +1,5 @@
 # Robot-Introduction
-This is the homework of robot introduction in SYSU
+This is the homework of Robot Introduction in SYSU
 
 Teacher: **Hui Cheng**
 
